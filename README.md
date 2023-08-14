@@ -1,4 +1,4 @@
-### Hi there 👋
+Read and write the fucking code in Terminal
 
 <!--
 **fadelpamungkas/fadelpamungkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
